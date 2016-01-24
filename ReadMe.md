@@ -11,5 +11,6 @@ Files included: <br>
     3. HW0.m - This is the matlab code file. <br>
     4. HW0.ipynb - This is the Jupyter notebook which has the executable cells containing matlab codes. <br>
 	5. HW0_pdf.pdf - This is a pdf version of the entire project, including introduction, code, and plots.
+	6. HW0_CS7616_zip.zip - zip folder also containing all above contents.
 
 
