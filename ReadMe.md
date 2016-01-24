@@ -5,11 +5,10 @@
 
 Language  of coding - Matlab
 <br>
-Files included: <br>
-    1. HW0.html - This is the html document containing the final report, including introduction, code, and plots. <br>
-    2. csv.winedata.csv - This is the winedata on which we have performed analysis. Data is imported from this file.<br>
-    3. attributenames.txt - This is a list of all the 13 attributes of wine. Data is imported from this file. <br>
-    4. HW0.m - This is the matlab code file. <br>
-    5. HW0.ipynb - This is the Jupyter notebook which has the executable cells containing matlab codes. <br>
+Files included: <br>   
+    1. csv.winedata.csv - This is the winedata on which we have performed analysis. Data is imported from this file.<br>
+    2. attributenames.txt - This is a list of all the 13 attributes of wine. Data is imported from this file. <br>
+    3. HW0.m - This is the matlab code file. <br>
+    4. HW0.ipynb - This is the Jupyter notebook which has the executable cells containing matlab codes. <br>
 
 
