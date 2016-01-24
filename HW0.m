@@ -39,9 +39,9 @@ pcacoeff = pca(wine(:,2:end));
 x = pcacoeff(:,1);
 y = pcacoeff(:,2);
 z = pcacoeff(:,3);
-scatter3(x,y,z,10,[1:13])
-xlabel('First component')
-ylabel('Second component')
-zlabel('Third Component')
+scatter3(x,y,z,10,z)
+xlabel('First component','FontSize',7)
+ylabel('Second component','FontSize',7)
+zlabel('Third Component','FontSize',7)
 title('First three principal components')
-view(30,5)
+view(40,40)
