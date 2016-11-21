@@ -1,5 +1,4 @@
-# CS 7616
-## HW 0
+# PCA of Wine Dataset
 #### Student information: Anisha Gartia
 #### GTID : 903136557
 
